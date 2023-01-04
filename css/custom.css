@@ -1,0 +1,12 @@
+.playButton,
+.pauseButton {
+    width: 50px;
+    height: 60px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.playButton:hover,
+.pauseButton:hover {
+    opacity: 80%;
+}
